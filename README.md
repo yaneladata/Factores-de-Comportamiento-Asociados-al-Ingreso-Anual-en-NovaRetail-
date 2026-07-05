@@ -46,11 +46,11 @@ Este es un análisis **correlacional (exploratorio)** — no busca ni permite es
 
 ---
 ## 📊 Visualizaciones
-- Correlación Heatmap Nova-Retail.png
-- Scatterplot de Visita_Mes vs Ingreso_Anual.png
-- Scatterplot de Visita_Mes vs Gasto_publicidad.png
-- Scatterplot de Compra_mes vs Ingreso_Anual.png
-- Scatterplot de Visita_mes vs Compra_Mes.png
+- **Correlación Heatmap**: Matriz de correlación
+- **Scatterplot**: Visita_Mes vs Ingreso_Anual
+- **Scatterplot**: Visita_Mes vs Gasto_publicidad
+- **Scatterplot**: Compra_mes vs Ingreso_Anual
+- **Scatterplot**: Visita_mes vs Compra_Mes
 
 ---
 
