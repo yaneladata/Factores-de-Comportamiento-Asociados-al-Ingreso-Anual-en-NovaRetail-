@@ -45,6 +45,14 @@ Este es un análisis **correlacional (exploratorio)** — no busca ni permite es
 6. Limitaciones y próximos pasos  
 
 ---
+## 📊 Visualizaciones
+- Correlación Heatmap Nova-Retail.png
+- Scatterplot de Visita_Mes vs Ingreso_Anual.png
+- Scatterplot de Visita_Mes vs Gasto_publicidad.png
+- Scatterplot de Compra_mes vs Ingreso_Anual.png
+- Scatterplot de Visita_mes vs Compra_Mes.png
+
+---
 
 ## 📊 Hallazgos principales
 **Correlaciones numéricas (mapa de calor):**
