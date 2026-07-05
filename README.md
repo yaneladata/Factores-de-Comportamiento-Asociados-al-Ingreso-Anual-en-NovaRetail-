@@ -1,4 +1,4 @@
-# 🛍️ NovaRetail+: Factores de Comportamiento Asociados al Ingreso Anual
+# 🛍️ Factores de Comportamiento Asociados al Ingreso Anual en NovaRetail+
 
 ## 📌 Descripción
 Análisis exploratorio y correlacional sobre 15,000 clientes de una plataforma de e-commerce en Latinoamérica, con el objetivo de identificar qué variables de comportamiento están más fuertemente asociadas al ingreso anual generado por cliente.
