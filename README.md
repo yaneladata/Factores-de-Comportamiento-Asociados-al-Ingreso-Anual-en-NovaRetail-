@@ -4,9 +4,7 @@
 Análisis exploratorio y correlacional sobre 15,000 clientes de una plataforma de e-commerce en Latinoamérica, con el objetivo de identificar qué variables de comportamiento están más fuertemente asociadas al ingreso anual generado por cliente.
 
 ## 🎯 Objetivo
-NovaRetail+ es una plataforma de comercio electrónico en Latinoamérica con millones de usuarios. Para el cierre de 2024, el equipo de Crecimiento y Retención buscaba responder:
-
-- ¿Qué factores del comportamiento del cliente están más fuertemente asociados con el ingreso anual generado?
+Identificar qué factores de comportamiento están más asociados al ingreso anual de clientes.
 
 Este es un análisis **correlacional (exploratorio)** — no busca ni permite establecer relaciones de causalidad, solo identificar asociaciones que orienten futuras estrategias e hipótesis de negocio.
 
@@ -56,16 +54,6 @@ Este es un análisis **correlacional (exploratorio)** — no busca ni permite es
 - `visitas_mes – compras_mes`: 0.35 (moderada)  
 - `gasto_publicidad_dirigida – ingreso_anual`: 0.20 (débil)  
 - `satisfaccion`, `edad`, `nivel_ingreso` vs. `ingreso_anual`: ≤ 0.06 (prácticamente nulas)  
-
-**Hallazgo destacado:**  
-La correlación de **compras_mes vs. ingreso_anual (r=0.97)** es inusualmente fuerte y sugiere posible redundancia de información en el dataset.  
-
-**Binarias (punto-biserial):**
-- `miembro_premium vs. ingreso_anual`: relación positiva, baja pero significativa (p<0.05).  
-- `abandono vs. ingreso_anual`: relación negativa, muy baja y no significativa (p>0.05).  
-
-**Categóricas (V de Cramér):**
-- `region vs. tipo_dispositivo`: asociación muy débil (V=0.0123, p=0.59).  
 
 ---
 
