@@ -85,7 +85,15 @@ La correlación de **compras_mes vs. ingreso_anual (r=0.97)** es inusualmente fu
 ## 🔜 Próximos pasos
 - Segmentar clientes por nivel de actividad de compra.  
 - Analizar el efecto de `miembro_premium` dentro de cada segmento.  
-- Explorar `nivel_ingreso` como variable adicional para explicar `ingreso_anual`.  
+- Explorar `nivel_ingreso` como variable adicional para explicar `ingreso_anual`.
+  
+---
+## 📂 Estructura del repositorio
+- `readme.md`
+- `data/` → datasets original.
+- `notebooks/` → notebooks de análisis.
+- `visualizaciones/` → gráficos generados.
 
 ---
+
 Este proyecto forma parte de mi portfolio de análisis de datos, con énfasis en el rigor metodológico al distinguir correlación de causalidad y en traducir hallazgos estadísticos en implicaciones de negocio accionables.
